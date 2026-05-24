@@ -1,5 +1,5 @@
 ### Mini PC server set-up
-##### Start working in it at Saturday 9th May 2026
+##### Start working on it at Saturday 9th May 2026
 ---
 ### Spec
 * CPU : Intel N150 
