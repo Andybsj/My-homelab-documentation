@@ -7,7 +7,7 @@
 * Storage : 1 TB NVME SDD
 ---
 ### OS
-#### [Debian](https://www.debian.org/) mo GUI only terminal set up for this with SSH applications selected for remote control from powershell
+#### [Debian](https://www.debian.org/) no GUI, only terminal set up for this with SSH applications selected for remote control from powershell
 ---
 ### Applications
 * [Tailscale](https://tailscale.com/)
