@@ -39,6 +39,8 @@
   * *Status* : Fully working
 ---
 ### Planned Docker-compose applications
+* **[Kavita](https://www.kavitareader.com/)** (Planned to be made in June)
+  * *Usage* : Read Manga and some basic ebooks
 ---
 ### Removed Docker-compose applications
 * **[homarr](https://github.com/homarr-labs/homarr)** (Created at Saturday 9th May 2026)
