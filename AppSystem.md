@@ -15,7 +15,7 @@
   * *Status* : Fully working now (Got a error with tailscale serve using 443 port causing Nginx to break at Sunday 23 May 2026)
 * [Docker](https://github.com/docker)
   * *Usage* : Used to isolate all applications into lightweight containers.
-  * *Status* : Fully working no error
+  * *Status* : downed (Fully working no error)
 * [Docker composer](https://github.com/docker/compose)
   * *Usage:* Used to define and manage multi-container applications in simple `YAML` configuration files, allowing the entire stack to be deployed or updated with a single command.
   * *Status* : Fully working no error       
