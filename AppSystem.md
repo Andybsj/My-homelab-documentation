@@ -37,7 +37,7 @@ Model Name : Ninkear N10 Pro
   * *Status* : Fully working
 * **[homepage](https://github.com/gethomepage/homepage)** (Created at Sunday 10th May 2026)
   * *Usage* : Customizable decent looking application dashboard that serves as a single entry point to monitor service status and shortcuts.
-  * *Status* : Partially working at time of writing this (Sunday 24th May 2026))
+  * *Status* : fully working 
 * **[uptimekuma](https://github.com/louislam/uptime-kuma)** (25th May 2026)
   * *Usage* : A self-hosted monitoring tool to track service availability and send alerts if any container or network device goes offline, mostly used to check if website is having a problem in backend. (will move to a NAS when i get one)
   * *Status* : Fully working
