@@ -35,7 +35,9 @@
   * *Status* : Partially working at time of writing this (Sunday 24th May 2026))
 * **[uptimekuma](https://github.com/louislam/uptime-kuma)** (25th May 2026)
   * *Usage* : A self-hosted monitoring tool to track service availability and send alerts if any container or network device goes offline, mostly used to check if website is having a problem in backend. (will move to a NAS when i get one)
-  * *Status* : Fully working 
+  * *Status* : Fully working
+---
+### Removed Docker-compose applications
 * **[homarr](https://github.com/homarr-labs/homarr)** (Created at Saturday 9th May 2026)
   * *Usage* : Used to checked docker status and have cool dashboard. Also serves as a single entry point to monitor service status and shortcuts.
   * *Status* : Removed due to high ram usage and CPU spike Replaced with homepage
