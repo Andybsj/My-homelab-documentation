@@ -3,8 +3,9 @@
 ##### Used mostly for my own uses.
 ---
 ### Model
-* Brand : Ninkear
-* Model Name : Ninkear N10 Pro
+Brand : Ninkear
+
+Model Name : Ninkear N10 Pro
 ### Spec
 * CPU : Intel N150 
 * RAM : 16 GB ddr4
