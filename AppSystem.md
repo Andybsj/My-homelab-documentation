@@ -33,9 +33,9 @@
 * **[homepage](https://github.com/gethomepage/homepage)** (Created at Sunday 10th May 2026)
   * *Usage* : Customizable decent looking application dashboard that serves as a single entry point to monitor service status and shortcuts.
   * *Status* : Partially working at time of writing this (Sunday 24th May 2026))
-* **[uptimekuma](https://github.com/louislam/uptime-kuma)** (Not yet)
+* **[uptimekuma](https://github.com/louislam/uptime-kuma)** (25th May 2026)
   * *Usage* : A self-hosted monitoring tool to track service availability and send alerts if any container or network device goes offline, mostly used to check if website is having a problem in backend.
-  * *Status* : Not started
+  * *Status* : Fully working 
 * **[homarr](https://github.com/homarr-labs/homarr)** (Created at Saturday 9th May 2026)
   * *Usage* : Used to checked docker status and have cool dashboard. Also serves as a single entry point to monitor service status and shortcuts.
   * *Status* : Removed due to high ram usage and CPU spike Replaced with homepage
