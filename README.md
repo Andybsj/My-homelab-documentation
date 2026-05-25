@@ -4,6 +4,7 @@
 ---
 ### List of all the servers documents in my current set u with links with more details.
 * [Server A : Mini PC](AppSystem.md)
+* [Server B : PC TOWER NAS](NasServer.md) (Planned)
 ---
 ### Summary of all servers
 #### Server A : Mini PC
