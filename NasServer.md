@@ -4,6 +4,7 @@
 ---
 ### Model
 Brand : ?
+
 Model Name : ?
 ### Spec
 * CPU : ?
