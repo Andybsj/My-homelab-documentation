@@ -10,6 +10,8 @@ Model Name : ?
 * CPU : ?
 * Ram : 16 - 32 GB ram
 * SSD : ?
+* Storage : 4 x 1 TB Ironwolf seagate hdd,
 ---
 ### OS
 #### TrueNAS scale?
+---
