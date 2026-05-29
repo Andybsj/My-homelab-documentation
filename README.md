@@ -11,7 +11,7 @@
 * **OS** : Debian
 * **Usage** : Applications for my daily usage and communicating with other server
 * Started working on it on Saturday 9th March 2026
-#### Server B : PC TOWER NAS (Planned)
+#### Server B : PC TOWER NAS (Planned to be next)
 * **OS** : TrueNAS scale
 * **Usage** : Store data for other servers, Backup important files, Media Storage.
 ---
