@@ -51,6 +51,10 @@ Model Name : Ninkear N10 Pro
   * *Usage* : Used to checked docker status and have cool dashboard. Also serves as a single entry point to monitor service status and shortcuts.
   * *Status* : Removed due to high ram usage and CPU spike Replaced with homepage
 ---
+### Basic Configuration of the server
+---
+#### set up debian with only terminal and connect to wifi and make it to use .com. uncheck gnome/desktop enviorment and check Standard System Utilities and SHH Server.
+---
 ### Maintenance & History
 To keep this document clean, the full history of updates, configuration changes, and installation dates for this machine is tracked separately.
 #### Started from Sunday 26th May 2026
