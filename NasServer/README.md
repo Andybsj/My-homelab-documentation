@@ -3,9 +3,9 @@
 #### Plan to be used mostly for my own uses and for my family.
 ---
 ### Model
-Brand : ?
+Brand : dell?
 
-Model Name : ?
+Model Name : dell optiplex?
 ### Spec
 * CPU : ?
 * Ram : 16 - 32 GB ram
