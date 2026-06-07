@@ -17,6 +17,7 @@ Model Name : dell optiplex?
 ---
 ### Applications
 * [Tailscale](https://tailscale.com/)
-* [Nextcloud](https://tailscale.com/)
+* [Nextcloud](https://nextcloud.com/install/#download-server)
+
 
 --- 
