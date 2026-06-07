@@ -15,3 +15,8 @@ Model Name : dell optiplex?
 ### OS
 #### TrueNAS scale?
 ---
+### Applications
+* [Tailscale](https://tailscale.com/)
+* [Nextcloud](https://tailscale.com/)
+
+--- 
