@@ -19,7 +19,7 @@ Model Name : dell optiplex?
 * [Tailscale](https://tailscale.com/)
 ### Docker-compose Applications
 * [Nextcloud](https://nextcloud.com/install/#download-server)
- * **[Configuration]()**
+ * **[Configuration](NasServer/Configuration/Nextcloud.Configuration.md)**
  * **Usage** : share files with my family without any major hassle and more user friendly UI
  * **Install via YAML**
 --- 
