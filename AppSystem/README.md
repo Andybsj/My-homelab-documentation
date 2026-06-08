@@ -31,7 +31,7 @@ Model Name : Ninkear N10 Pro
   * *Status* : Fully working.
 * **[Nginxproxymanager](https://github.com/NginxProxyManager/nginx-proxy-manager)** (Created at Saturday 9th May 2026)
   * *Usage* : Manages reverse proxying, allowing secure domain routing and automatic SSL certificate management for internal tools.
-  * *Status* : Fully working
+  * *Status* : Stopped (not using right now used tailscale served instead currently planned to be moved to another machine)
 * **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** (Created at Saturday 16th May 2026)
   * *Usage* : A lightweight, self-hosted Bitwarden-compatible API server used to securely manage and isolate personal passwords locally. is used with Nginxproxymanager and tailscale MagicDNS to make https certificate for one of api to work. Worked with browser extension, computer and phone.
   * *Status* : Fully working
@@ -41,10 +41,11 @@ Model Name : Ninkear N10 Pro
 * **[uptimekuma](https://github.com/louislam/uptime-kuma)** (25th May 2026)
   * *Usage* : A self-hosted monitoring tool to track service availability and send alerts if any container or network device goes offline, mostly used to check if website is having a problem in backend. (will move to a NAS when i get one)
   * *Status* : Fully working
----
-### Planned Docker-compose applications
 * **[Kavita](https://www.kavitareader.com/)** (Planned to be made in June)
   * *Usage* : Read Manga and some basic ebooks
+  * *Status* : Fully working
+---
+### Planned Docker-compose applications
 ---
 ### Removed Docker-compose applications
 * **[homarr](https://github.com/homarr-labs/homarr)** (Created at Saturday 9th May 2026)
