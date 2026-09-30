@@ -6,4 +6,4 @@
 
 ##### 1st June : added jellyfin uptimekuma kavita widget to homepage changed the looks updated jellyfin and uptimekuma images then recreated it.
 ##### 8th June : added Kavita and change it port to different one since it have conflict with vaultwarden. added kavita to homepage. add kavita to uptimekuma monitoring and intergated it to homepage uptimekuma. fix conflict with kavita and vaultwarden and added vaultwarden to uptimekuma.
-##### 28th August and 17 september added 3 movies to jellyfin and updated all docker image
+##### 28th August and 17 september (forgot to add update to changelogs) : added 3 movies to jellyfin and updated all docker image
